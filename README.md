@@ -26,10 +26,10 @@ In Word 22 however, there seems to not have a high correlation between Review, c
 ### Conclusion:
 I would advise to invest in Thawi Watthana, Bangkok; Ward 92, Cape Town; Pedra de Guaratiba, and Santissimo, Rio de Janeiro and focus on keeping the listing clean and having great communication with the guests. 
 
-Also, include these amenities in the word cloud as they seems to be very common among the highly rated listings:
+Also, consider including these amenities in the word cloud as they seems to be very common among the highly rated listings:
 
 <img width="880" alt="Screen Shot 2021-05-15 at 7 03 00 PM" src="https://user-images.githubusercontent.com/62320593/118380871-57199580-b5b3-11eb-91f6-4cfd54d759d5.png">
 
-
+*** Data could not not uploaded due to its size, feel free to contact be should you need it.***
 
 
