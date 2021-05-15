@@ -20,7 +20,7 @@ To be more exact, these are the neighborhoods with the low scoring listings on a
 
 ![Sheet 2](https://user-images.githubusercontent.com/62320593/118380870-5254e180-b5b3-11eb-81e1-668a1e2b7981.png)
 
-In Word 22 however, there seems to not have a high correlation between Review, communication and cleanliness score. So I would advise not to invest there given that we’re trying to capitalize on the neighborhoods with listings with weak communication and review score. 
+In Ward 22 however, there seems to not have a high correlation between Review, communication and cleanliness score. So I would advise not to invest there given that we’re trying to capitalize on the neighborhoods with listings with weak communication and cleanliness scores. 
 
 
 ### Conclusion:
