@@ -9,4 +9,4 @@ Looking at the data provided, I wanted to figure out what contributes to having 
 
 Cleanliness and Communication seems to have a high correlation with the overall score.
 
-![Sheet 1](https://user-images.githubusercontent.com/62320593/118380797-b9be6180-b5b2-11eb-97ed-7d2cdbda1b08.png)
+![Sheet 1](width="650" height="370" https://user-images.githubusercontent.com/62320593/118380797-b9be6180-b5b2-11eb-97ed-7d2cdbda1b08.png)
