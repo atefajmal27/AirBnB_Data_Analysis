@@ -12,7 +12,7 @@ Cleanliness and Communication seems to have a high correlation with the overall 
 
 ![Sheet 1](https://user-images.githubusercontent.com/62320593/118380797-b9be6180-b5b2-11eb-97ed-7d2cdbda1b08.png)
 
-These cities seemed to have neighborhoods with listings with low scores in cleanliness and communication. 
+These cities seemed to have neighborhoods with listings with low scores (less than 8 out of 10) in both cleanliness and communication ratings. 
 
 <img width="230" alt="Screen Shot 2021-05-15 at 6 44 45 PM" src="https://user-images.githubusercontent.com/62320593/118380799-bcb95200-b5b2-11eb-96fa-38af07263712.png">
 
