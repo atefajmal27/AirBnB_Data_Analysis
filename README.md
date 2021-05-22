@@ -14,7 +14,7 @@ Cleanliness and Communication seems to have a high correlation with the overall 
 
 These cities seemed to have neighborhoods with listings with low scores (less than 8 out of 10) in both cleanliness and communication ratings. 
 
-<img width="330" alt="Screen Shot 2021-05-15 at 6 44 45 PM" src="https://user-images.githubusercontent.com/62320593/118380799-bcb95200-b5b2-11eb-96fa-38af07263712.png">
+<img width="300" alt="Screen Shot 2021-05-15 at 6 44 45 PM" src="https://user-images.githubusercontent.com/62320593/118380799-bcb95200-b5b2-11eb-96fa-38af07263712.png">
 
 To be more exact, these are the neighborhoods with the low scoring listings on average.
 
