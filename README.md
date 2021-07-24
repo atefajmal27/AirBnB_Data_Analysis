@@ -30,6 +30,6 @@ Also, consider including these amenities in the word cloud as they seems to be v
 
 <img width="880" alt="Screen Shot 2021-05-15 at 7 03 00 PM" src="https://user-images.githubusercontent.com/62320593/118380871-57199580-b5b3-11eb-91f6-4cfd54d759d5.png">
 
-*** Data could not not uploaded due to its size, feel free to contact be should you need it.***
+*** Data could not not uploaded due to its size, feel free to contact me if you need it.***
 
 
